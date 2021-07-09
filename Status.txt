@@ -1,4 +1,5 @@
 Food Has been added and showing in purple color
 Next thing
 Will Be done tommorow now uploading to github
-Uploded to git hub
+done!
+https://technicalankit.netlify.app
